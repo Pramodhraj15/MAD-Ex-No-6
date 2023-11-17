@@ -182,8 +182,8 @@ protected void onCreate(Bundle savedInstanceState) {
 
 
 ## OUTPUT
-![image](https://github.com/Sahithya7/Moblie-Application-Development/assets/133002193/2d152228-266f-419e-b7a7-1bd3cd83329a)
-
-
+![image](https://github.com/rahulramakrishnann/EXPERIMENT-6-mad/assets/143045415/97956d07-3f09-4048-a7b8-7b5254e40737)
+![image](https://github.com/rahulramakrishnann/EXPERIMENT-6-mad/assets/143045415/b7471088-4d94-4fb6-8d91-ac5f69904473)
+![image](https://github.com/rahulramakrishnann/EXPERIMENT-6-mad/assets/143045415/2884c3c9-f071-4f88-a6ed-39e04c68b045)
 ## RESULT
 Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
